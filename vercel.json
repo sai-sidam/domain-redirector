@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://v0-yourproject.vercel.app/$1",
+      "destination": "https://v0-portfolioux-mu.vercel.app/",
       "permanent": true
     }
   ]
